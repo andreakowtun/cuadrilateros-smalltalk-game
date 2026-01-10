@@ -39,7 +39,7 @@ Este proyecto fue construido siguiendo estrictamente los principios de la Progra
 ## 👥 Autores
 * **Di Rado Luciano** - *Desarrollo y Lógica* 
 * **Gonzales Alessandro** - *Interfaz, Desarrollo y Lógica*
-* **Kowtun Andrea** - *Interfaz, Diseño, Desarrollo, Lógica, Testing y Documentación* [https://www.linkedin.com/in/andrea-kowtun-desarrolladora-backend/]
+* **Kowtun Andrea** - *Interfaz, Diseño, Desarrollo, Testing y Documentación* [https://www.linkedin.com/in/andrea-kowtun-desarrolladora-backend/]
 * **Pozzer Mauricio** - *Documentación*
 
 ---
